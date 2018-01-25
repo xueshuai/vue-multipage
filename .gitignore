@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+npm-debug.log
+.idea
+*.zip
+/test
+/dev
+/dist
+/tmp
+*.bk
